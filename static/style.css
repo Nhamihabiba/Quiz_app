@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(82, 80, 80);
+
+}
+
+.header {
+    background-color: rgb(232, 114, 29);
+}
+
+.linkcolor {
+    background-color:  rgb(232, 114, 29);
+}
+
+
+.list-group-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
